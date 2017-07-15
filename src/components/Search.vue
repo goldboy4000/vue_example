@@ -10,7 +10,6 @@
       <i class="fa fa-check"></i>
     </span>
     </p>
-    {{searchKey}}
     <datagrid :data="info" :headers="headerNames" :searchkey="searchKey"></datagrid>
 
   </div>

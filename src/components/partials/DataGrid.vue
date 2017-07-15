@@ -13,7 +13,6 @@
         </tr>
       </tbody>
     </table>
-    {{searchkey}}
   </div>
 </template>
 
